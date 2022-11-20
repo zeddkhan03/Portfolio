@@ -1,2 +1,2 @@
 # Portfolio
-Check my portfolio at https://zeddkhan03.github.io/Portfolio/
+Check my portfolio at https://zaidkhan.co/
